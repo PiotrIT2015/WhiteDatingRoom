@@ -74,7 +74,7 @@ public class Client implements Runnable{
 
         final File[] fileToSend=new File[1];
 
-        JFrame jFrame=new JFrame("Relaxation tool");
+        JFrame jFrame=new JFrame("White Dating Room");
         jFrame.setSize(450,450);
         jFrame.setLayout(new BoxLayout(jFrame.getContentPane(), BoxLayout.Y_AXIS));
         jFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
