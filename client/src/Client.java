@@ -69,8 +69,8 @@ public class Client implements Runnable{
 
     public static void main(String[] args) {
 
-        Client client=new Client();
-        client.run();
+        //Client client=new Client();
+        //client.run();                 //unblock these two lines to enter chat
 
         final File[] fileToSend=new File[1];
 

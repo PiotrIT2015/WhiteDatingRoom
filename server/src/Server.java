@@ -133,7 +133,7 @@ public class Server implements Runnable {
     public static void main(String[] args) throws IOException {
 
         //Server server=new Server();
-        //server.run();
+        //server.run();                 //unblock these two lines to enter chat
 
         int fileId=0;
         JFrame jFrame=new JFrame("PP's Server");
